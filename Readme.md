@@ -1,29 +1,18 @@
 # ALX Backend Python
 
 This repository contains my solutions and projects for the ALX Software Engineering Program's Backend Python track. It demonstrates proficiency in Python programming fundamentals, object-oriented programming, data structures, algorithms, and backend development concepts.
-This repository contains my solutions and projects for the ALX Software Engineering Program's Backend Python track. It demonstrates proficiency in Python programming fundamentals, object-oriented programming, data structures, algorithms, and backend development concepts.
+
 ## 📚 About ALX
 
 [ALX](https://www.alxafrica.com/) is a leading technology training provider, built to accelerate the careers of young Africans through the technology and professional skills that enable them to thrive in the digital economy.
 
 
 
-## 🗂️ Repository Structure
-alx_be_python/
-├── control-flow/
-│   ├── daily_reminder.py           # Task reminder with day-specific advice
-│   ├── match_case_calculator.py    # Calculator using match-case statements
-│   ├── multiplication_table.py     # Generate multiplication tables
-│   ├── pattern_drawing.py          # Draw patterns using loops
-│   └── weather_advice.py           # Weather-based clothing advice
-├── python_introduction/
-│   ├── basic_operations.py         # Basic arithmetic operations
-│   ├── finance_calculator.py       # Financial calculations
-│   ├── future_age_calculator.py    # Calculate future age
-│   ├── hours_to_seconds.py         # Time unit conversions
-│   ├── rectangle_area.py           # Geometric calculations
-│   └── simple_interest.py          # Simple interest calculator
-└── README.md
+## 🗂️ Repository Folder Structure
+The repository is organized into the following directories:
+- **python_introduction** — Basic Python syntax and introductory concepts.
+- **control-flow** — Exercises on conditional statements and loops.
+
 
 ## 🚀 Getting Started
 
