@@ -12,6 +12,7 @@ This repository contains my solutions and projects for the ALX Software Engineer
 The repository is organized into the following directories:
 - **python_introduction** — Basic Python syntax and introductory concepts.
 - **control-flow** — Exercises on conditional statements and loops.
+- **fns_and_dsa** — Practice with functions, including function arguments and return values.
 
 
 ## 🚀 Getting Started
@@ -129,6 +130,7 @@ This project is part of the ALX Software Engineering curriculum. Please respect 
 - [x] Github Basics (Done)
 - [x] Python Basics (Done)
 - [x] Control Flow (Done)
+- [x] Functions, Data Structures and Modules (Done)
 
 
 ---
