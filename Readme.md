@@ -13,6 +13,7 @@ The repository is organized into the following directories:
 - **python_introduction** — Basic Python syntax and introductory concepts.
 - **control-flow** — Exercises on conditional statements and loops.
 - **fns_and_dsa** — Practice with functions, including function arguments and return values.
+- **programming_paradigm** -- Object-Oriented Programming (OOP) concepts.
 
 
 ## 🚀 Getting Started
