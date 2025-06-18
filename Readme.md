@@ -10,6 +10,9 @@ This repository contains my solutions and projects for the ALX Software Engineer
 
 ## 🗂️ Repository Folder Structure
 The repository is organized into the following directories:
+- **Welcome TO ALX SE Program**: Onboarding Introduction to the web (Week 0)
+- **cli** - Introduction To The CLI "No folder as this was in sandbox." (Week 1)
+- **git** - Git and GitHub Practice (Week 2)
 - **python_introduction** — Basic Python syntax and introductory concepts. (Week 3)
 - **control-flow** — Exercises on conditional statements and loops. ( Week 4)
 - **fns_and_dsa** — Practice with functions, including function arguments and return values. (Week 5)
