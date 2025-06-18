@@ -10,7 +10,7 @@ class Book:
     def __del__(self):
         """
         Destructor: Called when the object is about to be destroyed.
-        """
+         """
         print(f"Deleting {self.title}")
 
     def __str__(self):
