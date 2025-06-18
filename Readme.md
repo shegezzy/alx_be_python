@@ -10,10 +10,11 @@ This repository contains my solutions and projects for the ALX Software Engineer
 
 ## 🗂️ Repository Folder Structure
 The repository is organized into the following directories:
-- **python_introduction** — Basic Python syntax and introductory concepts.
-- **control-flow** — Exercises on conditional statements and loops.
-- **fns_and_dsa** — Practice with functions, including function arguments and return values.
-- **programming_paradigm** -- Object-Oriented Programming (OOP) concepts.
+- **python_introduction** — Basic Python syntax and introductory concepts. (Week 3)
+- **control-flow** — Exercises on conditional statements and loops. ( Week 4)
+- **fns_and_dsa** — Practice with functions, including function arguments and return values. (Week 5)
+- **programming_paradigm** -- Object-Oriented Programming (OOP)concepts part 1. (Week 6)
+- **oop** - Object-Oriented Programming (OOP) concepts part 2. (Week 7)
 
 
 ## 🚀 Getting Started
