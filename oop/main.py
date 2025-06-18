@@ -1,10 +1,12 @@
 from book_class import Book as BookWithMagicMethods
 from library_system import Book as LibraryBook, EBook, PrintBook, Library
+from polymorphism_demo import Shape, Rectangle, Circle
+import math
 
 def main():
     # ====== Part 1: Book class with magic methods ======
     print("=== Magic Methods Demo ===")
-    
+
     # Create and demonstrate Book from book_class.py
     my_book = BookWithMagicMethods("1984", "George Orwell", 1949)
     print(my_book)
@@ -31,6 +33,19 @@ def main():
 
     # List all books in the library
     my_library.list_books()
+
+    print()  # Separator
+
+    # ====== Part 3: Polymorphism and Method Overriding ======
+    print("=== Polymorphism Demo ===")
+
+    shapes = [
+        Rectangle(10, 5),
+        Circle(7)
+    ]
+
+    for shape in shapes:
+        print(f"The area of the {shape.__class__.__name__} is: {shape.area()}")
 
 if __name__ == "__main__":
     main()
