@@ -18,8 +18,10 @@ The repository is organized into the following directories:
 - **fns_and_dsa** — Practice with functions, including function arguments and return values. (Week 5)
 - **programming_paradigm** -- Object-Oriented Programming (OOP)concepts part 1. (Week 6)
 - **oop** - Object-Oriented Programming (OOP) concepts part 2. (Week 7)
+- **intro_to_db** — Introduction to database concepts and MySQL. (Week 8)  
+  🔗 [View Full Project Repository](https://github.com/shegezzy/Intro_to_DB)
 
-
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
