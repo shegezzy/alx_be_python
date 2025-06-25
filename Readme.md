@@ -21,7 +21,7 @@ The repository is organized into the following directories:
 - **intro_to_db** — Introduction to database concepts and MySQL. (Week 8)  
   🔗 [View Full Project Repository](https://github.com/shegezzy/Intro_to_DB)
 
-  
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -134,13 +134,15 @@ This project is part of the ALX Software Engineering curriculum. Please respect 
 
 ## 📈 Progress
 
+- [x] CLI Basics (Done)
 - [x] Github Basics (Done)
 - [x] Python Basics (Done)
 - [x] Control Flow (Done)
 - [x] Functions, Data Structures and Modules (Done)
+- [x] OOP concepts part 1 (Done)
+- [x] OOP concepts part 2 (Done)
+- [x] Intro to Database (Done)
 
-
----
 
 **"The only way to learn a new programming language is by writing programs in it."** - Dennis Ritchie
 
